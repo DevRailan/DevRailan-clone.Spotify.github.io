@@ -1,6 +1,6 @@
 <h1 align="left">Clone do Spotify usando HTML, CSS E BOOTSTRAP</h1>
    
-<h3 align="center">Confere<a href="https://devrailan.github.io/DevRailan-clone.Spotify.github.io/">aqui</a></h3>   
+<h3 align="left">Confere<a href="https://devrailan.github.io/DevRailan-clone.Spotify.github.io/">aqui</a></h3>   
 <img align="center" src="https://raw.githubusercontent.com/DevRailan/DevRailan-clone.Spotify.github.io/main/imagens/spotify-logo-600x338.webp">
 <div inline:block>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -13,4 +13,4 @@
  pelos empresários Daniel Ek e Martin Lorentzon.
  Nesse período os serviços de streaming eram limitados
  a alguns países e ao alto custo, então o acesso à música
- se dava fortemente de forma ilegal, pela pira</p>
+ se dava fortemente de forma ilegal, pela pirataria.</p>
